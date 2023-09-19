@@ -19,3 +19,5 @@ Phishing para captura de senhas do Facebook
 - URL para clone: http://www.facebook.com
 
 ### Resutados
+
+![Alt text](./Lab_Facebook_Fake1.jpg "Optional title")
